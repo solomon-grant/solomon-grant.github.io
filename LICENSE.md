@@ -6,7 +6,7 @@ This material is made available under the Creative Commons Attribution license. 
 
 Under the following conditions:
 
-* Attribution - You must attribute the work using "Copyright (c) NAME" (but not in any way that suggests that we endorse you or your use of the work).  Where practical, you must also include a hyperlink to https://third-bit.com.
+* Attribution - You must attribute the work using "Copyright (c) NAME" (but not in any way that suggests that we endorse you or your use of the work).  Where practical, you must also include a hyperlink to solomon-grant.github.io.
 
 With the understanding that:
 
