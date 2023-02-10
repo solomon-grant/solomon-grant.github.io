@@ -1,4 +1,0 @@
-Sitemap: https://solomon-grant.github.io/sitemapindex.xml
-
-User-Agent: *
-Host: solomon-grant.github.io

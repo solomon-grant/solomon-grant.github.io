@@ -1,1 +1,0 @@
-# solomon-grant.github.io
