@@ -36,7 +36,7 @@ subTitle = "Avid thinker, aspiring doer."
 defaultTheme = "dark"              # default theme when first visit (auto|dark|light)
 
 # Source URL of the website, will appear in the footer
-sourceURL = "https://solomon-grant.github.io"
+sourceURL = "https://github.com/solomon-grant/solomon-grant.github.io"
 
 # Use CloudFlare Workers to accelerate the Google Analytics
 # If you are using this please comment the googleAnalytics above
