@@ -1,5 +1,6 @@
 baseURL = "https://solomon-grant.github.io"
 title = "Solomon Grant"
+publishDir = "docs"
 
 theme = "fuji"
 hasCJKLanguage = true
